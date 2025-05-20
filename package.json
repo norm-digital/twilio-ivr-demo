@@ -1,0 +1,25 @@
+{
+  "name": "twilio-ivr-demo",
+  "version": "1.0.0",
+  "description": "An IVR demo using Twilio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norm-digital/twilio-ivr-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norm-digital/twilio-ivr-demo/issues"
+  },
+  "homepage": "https://github.com/norm-digital/twilio-ivr-demo#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "twilio": "^5.6.1"
+  }
+}
